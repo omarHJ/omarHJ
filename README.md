@@ -7,18 +7,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build amaz
 - 🔭 Currently working with .Net & Angular  
 - 📫 How to reach me: [omarpp5.5@gmail.com](mailto:omarpp5.5@gmail.com)
 
-### 🚀 Skills & Technologies
-
-- **Languages:** JavaScript, TypeScript, C#, PHP  
-- **Frameworks/Libraries:** ![React](https://path_to_react_logo.png) React, ![Node.js](https://path_to_node_logo.png) Node.js  
-- **Tools:** ![Git](https://path_to_git_logo.png) Git, ![Docker](https://path_to_docker_logo.png) Docker  
-- **Databases:** ![MySQL](https://path_to_mysql_logo.png) MySQL, ![MongoDB](https://path_to_mongo_logo.png) MongoDB
-
-
-
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
 
-### Languages and Tools:
+### 🚀 Skills & Technologies:
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -36,4 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build amaz
 <!--  .NET Core icon not found in original, consider adding one or using C# icon -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/>
 </p> 
