@@ -41,3 +41,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build amaz
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
 </p> 
+<br />
+## My GitHub Stats
+<p style="display:flex; justify-content: space-between">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarHJ&show_icons=true&locale=en&layout=compact&theme=dark" alt="omarHJ's Top Languages" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarHJ&show_icons=true&locale=en&theme=dark" alt="omarHJ's GitHub Stats" height="140" />
+</p>
