@@ -44,6 +44,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build amaz
 <br />
 ## My GitHub Stats
 <div style="display:flex; justify-content: space-between">
- <div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarHJ&show_icons=true&locale=en&layout=compact&theme=dark" alt="omarHJ's Top Languages" height="140" /> </div>
- <div><img src="https://github-readme-stats.vercel.app/api?username=omarHJ&show_icons=true&locale=en&theme=dark" alt="omarHJ's GitHub Stats" height="140" /></div> 
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarHJ&show_icons=true&locale=en&layout=compact&theme=dark" alt="omarHJ's Top Languages" height="140" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=omarHJ&show_icons=true&locale=en&theme=dark" alt="omarHJ's GitHub Stats" height="140" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarHJ&theme=dark" alt="omarHJ's Streak" height="140" />
+  </div>
 </div>
