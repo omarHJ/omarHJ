@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build amaz
 </p>
 
 ### 🚀 Skills & Technologies:
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
